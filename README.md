@@ -1,15 +1,22 @@
+# BARBEQUE  
+
+## Purpose
+This project was developed as training in CSS responsive layout
+
+<p align=center>
+<img src="./images/barbeque.png" height=400></img>
+</p>
 
 
-## Responsive Layout
-Project Title: Barbeque 
-description: Practicing
+## Built with
+- HTML.
+- Css (Responsive - Media Query)
 
-## Built With
-HTML CSS responsive
+## Available Scripts
+**npm i** to install **npm start** to lunch on your localhost
 
-
-
-
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 	 
 
 
