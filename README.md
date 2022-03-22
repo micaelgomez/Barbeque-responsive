@@ -11,7 +11,7 @@ This project was developed as training in CSS responsive layout
 ## Built with
 - HTML.
 - Css (Responsive - Media Query)
-## Preyect
+## Link
 - https://barbequeresposive.netlify.app/
 
 ## Available Scripts
